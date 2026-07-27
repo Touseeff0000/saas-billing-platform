@@ -16,7 +16,7 @@ Python · Django · Django REST Framework · Stripe API · JWT · Bootstrap 5
 ## Project Structure
 
 - `accounts/` — user accounts and authentication
-- `billing/` — Stripe integration, subscriptions, and usage metering
+- `billing/` — Stripe integration, subscriptions, and  usage metering
 - `core/` — project settings and configuration
 - `dashboard/` — session-based web dashboard (templates + views)
 - `tenants/` — multi-tenant models, permissions, and API serializers
